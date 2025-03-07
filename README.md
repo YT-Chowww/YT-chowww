@@ -1,4 +1,6 @@
-I'm chow, a frontend engineer.
+👋 Hi,I'm @chow
+
+💻 Web 全栈开发工程师
 
 🧑‍💼全职上班  
 
