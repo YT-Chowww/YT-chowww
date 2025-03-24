@@ -8,7 +8,7 @@
 
 👨‍💻业余独立开发者  
  
-关注🌐大前端、 🤖AI
+关注🌐大前端、 🤖AI、金融🏦
 
 - 📧 [Email me](mailto:yutaochow66@gmail.com)
 - 🐦 [X Profile](https://x.com/zhouyut19545710)
